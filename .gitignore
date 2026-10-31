@@ -1,0 +1,5 @@
+/target/
+*.dpegfs.lock
+.dpegfs-*
+.DS_Store
+/demo-output/
